@@ -1,0 +1,99 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "CT9EFA7P77.jp.mynavi.ios.baito",
+          "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg"
+        ],
+        "components": [
+          {
+            "/": "/contents/*",
+            "exclude": true
+          },
+          {
+            "/": "/kodawari/*",
+            "exclude": true
+          },
+          {
+            "/": "/shokushu/*",
+            "exclude": true
+          },
+          {
+            "/": "/help/*",
+            "exclude": true
+          },
+          {
+            "/": "/mente/*",
+            "exclude": true
+          },
+          {
+            "/": "/login/*",
+            "exclude": true
+          },
+          {
+            "/": "/seishain/*",
+            "exclude": true
+          },
+          {
+            "/": "/forkigyo/*",
+            "exclude": true
+          },
+          {
+            "/": "/entrypocket/*",
+            "exclude": true
+          },
+          {
+            "/": "/extra/*",
+            "exclude": true
+          },
+          {
+            "/": "/support/*",
+            "exclude": true
+          },
+          {
+            "/": "/clip/*",
+            "exclude": true
+          },
+          {
+            "/": "/aizome/*",
+            "exclude": true
+          },
+          {
+            "/": "/hamidel/*",
+            "exclude": true
+          },
+          {
+            "/": "/campaign/*",
+            "exclude": true
+          },
+          {
+            "/": "/entry/*",
+            "exclude": true
+          },
+          {
+            "/": "/*/kd-219/*"
+          },
+          {
+            "/": "/*/kd-219\\_*"
+          },
+          {
+            "/": "/*/kd-*_219/*"
+          },
+          {
+            "/": "/*/kd-219**"
+          },
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "CT9EFA7P77.jp.mynavi.ios.baito",
+      "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg"
+    ]
+  }
+}

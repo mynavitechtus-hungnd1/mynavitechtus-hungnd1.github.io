@@ -4,67 +4,12 @@
       {
         "appIDs": [
           "CT9EFA7P77.jp.mynavi.ios.baito",
-          "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg"
+          "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg",
+          "CT9EFA7P77.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
         ],
         "components": [
           {
             "/": "/contents/*",
-            "exclude": true
-          },
-          {
-            "/": "/kodawari/*",
-            "exclude": true
-          },
-          {
-            "/": "/shokushu/*",
-            "exclude": true
-          },
-          {
-            "/": "/help/*",
-            "exclude": true
-          },
-          {
-            "/": "/mente/*",
-            "exclude": true
-          },
-          {
-            "/": "/login/*",
-            "exclude": true
-          },
-          {
-            "/": "/seishain/*",
-            "exclude": true
-          },
-          {
-            "/": "/forkigyo/*",
-            "exclude": true
-          },
-          {
-            "/": "/entrypocket/*",
-            "exclude": true
-          },
-          {
-            "/": "/extra/*",
-            "exclude": true
-          },
-          {
-            "/": "/support/*",
-            "exclude": true
-          },
-          {
-            "/": "/clip/*",
-            "exclude": true
-          },
-          {
-            "/": "/aizome/*",
-            "exclude": true
-          },
-          {
-            "/": "/hamidel/*",
-            "exclude": true
-          },
-          {
-            "/": "/campaign/*",
             "exclude": true
           },
           {
@@ -93,7 +38,8 @@
   "webcredentials": {
     "apps": [
       "CT9EFA7P77.jp.mynavi.ios.baito",
-      "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg"
+      "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg",
+      "CT9EFA7P77.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
     ]
   }
 }

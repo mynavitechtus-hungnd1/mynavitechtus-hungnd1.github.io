@@ -5,7 +5,7 @@
         "appIDs": [
           "CT9EFA7P77.jp.mynavi.ios.baito",
           "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg",
-          "CT9EFA7P77.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
+          "6T46SJ3336.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
         ],
         "components": [
           {
@@ -39,7 +39,7 @@
     "apps": [
       "CT9EFA7P77.jp.mynavi.ios.baito",
       "CT9EFA7P77.jp.mynavi.ios.baito.Integration.Stg",
-      "CT9EFA7P77.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
+      "6T46SJ3336.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
     ]
   }
 }

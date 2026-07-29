@@ -8,29 +8,49 @@
           "6T46SJ3336.com.glpgs-dev.app.cw-mmb-iphone.new-mynavi-dev"
         ],
         "components": [
-          {
-            "/": "/contents/*",
-            "exclude": true
-          },
-          {
-            "/": "/entry/*",
-            "exclude": true
-          },
-          {
-            "/": "/*/kd-219/*"
-          },
-          {
-            "/": "/*/kd-219\\_*"
-          },
-          {
-            "/": "/*/kd-*_219/*"
-          },
-          {
-            "/": "/*/kd-219**"
-          },
-          {
-            "/": "/*"
-          }
+          { "/": "/contents/*", "exclude": true },
+          { "/": "/*/contents/*", "exclude": true },
+          { "/": "/kodawari/*", "exclude": true },
+          { "/": "/*/kodawari/*", "exclude": true },
+          { "/": "/shokushu/*", "exclude": true },
+          { "/": "/*/shokushu/*", "exclude": true },
+          { "/": "/help/*", "exclude": true },
+          { "/": "/*/help/*", "exclude": true },
+          { "/": "/mente/*", "exclude": true },
+          { "/": "/*/mente/*", "exclude": true },
+          { "/": "/login/*", "exclude": true },
+          { "/": "/*/login/*", "exclude": true },
+          { "/": "/seishain/*", "exclude": true },
+          { "/": "/*/seishain/*", "exclude": true },
+          { "/": "/forkigyo/*", "exclude": true },
+          { "/": "/*/forkigyo/*", "exclude": true },
+          { "/": "/entrypocket/*", "exclude": true },
+          { "/": "/*/entrypocket/*", "exclude": true },
+          { "/": "/extra/*", "exclude": true },
+          { "/": "/*/extra/*", "exclude": true },
+          { "/": "/support/*", "exclude": true },
+          { "/": "/*/support/*", "exclude": true },
+          { "/": "/clip/*", "exclude": true },
+          { "/": "/*/clip/*", "exclude": true },
+          { "/": "/aizome/*", "exclude": true },
+          { "/": "/*/aizome/*", "exclude": true },
+          { "/": "/hamidel/*", "exclude": true },
+          { "/": "/*/hamidel/*", "exclude": true },
+          { "/": "/campaign/*", "exclude": true },
+          { "/": "/*/campaign/*", "exclude": true },
+          { "/": "/entry/*", "exclude": true },
+          { "/": "/*/entry/*", "exclude": true },
+          { "/": "/admin/*", "exclude": true },
+          { "/": "/*/admin/*", "exclude": true },
+          { "/": "/ai/*", "exclude": true },
+          { "/": "/*/ai/*", "exclude": true },
+          { "/": "/value/*", "exclude": true },
+          { "/": "/*/value/*", "exclude": true },
+          { "/": "/pr/*", "exclude": true },
+          { "/": "/*/pr/*", "exclude": true },
+          { "/": "/sitemap.html*", "exclude": true },
+          { "/": "/*/sitemap.html*", "exclude": true },
+          { "/": "/*" }
         ]
       }
     ]
